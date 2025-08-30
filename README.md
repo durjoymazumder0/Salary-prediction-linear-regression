@@ -52,7 +52,7 @@ jupyter notebook salary_prediction.ipynb
 
 
 ## 🔗 Links
-- **Kaggle Notebook**: [View on Kaggle](https://www.kaggle.com/code/durjoymazumder0/notebook3ea54065ff)
+- **Kaggle Notebook**: [View on Kaggle](https://www.kaggle.com/code/durjoymazumder0/notebookc932a30692)
 
 
 ## 📚 What I Learned
