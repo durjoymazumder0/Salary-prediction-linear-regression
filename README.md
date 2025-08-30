@@ -26,9 +26,6 @@ Predict employee salary using years of experience as the primary feature.
 ├── salary_prediction.ipynb    # Main notebook
 ├── Salary_Data.csv           # Dataset
 ├── requirements.txt          # Dependencies
-└── images/
-    ├── results.png
-    └── prediction_plot.png
 ```
 
 ## 🚀 How to Run
